@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SillyMonk83
-- 👀 I’m interested in Data Science and Programing
-- 🌱 I’m currently learning BSc in Information Technology
-- 💞️ I’m looking to collaborate on coding, data and web tech
+- 👀 I’m interested in Data Analytics
+- 🌱 I’ve completed my BSc in Information Technology
+- 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: louw.theo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
